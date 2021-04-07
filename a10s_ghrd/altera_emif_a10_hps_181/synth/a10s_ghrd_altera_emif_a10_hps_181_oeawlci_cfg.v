@@ -1,0 +1,5 @@
+config a10s_ghrd_altera_emif_a10_hps_181_oeawlci_cfg;
+		design a10s_ghrd_altera_emif_a10_hps_181_oeawlci;
+		instance a10s_ghrd_altera_emif_a10_hps_181_oeawlci.arch use a10s_ghrd_altera_emif_arch_nf_181.a10s_ghrd_altera_emif_arch_nf_181_ccplvsq;
+endconfig
+

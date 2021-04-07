@@ -1,0 +1,5 @@
+config a10s_ghrd_altera_arria10_hps_io_181_stpywma_cfg;
+		design a10s_ghrd_altera_arria10_hps_io_181_stpywma;
+		instance a10s_ghrd_altera_arria10_hps_io_181_stpywma.border use a10s_ghrd_altera_arria10_interface_generator_140.a10s_ghrd_altera_arria10_interface_generator_140_ytlch6i;
+endconfig
+

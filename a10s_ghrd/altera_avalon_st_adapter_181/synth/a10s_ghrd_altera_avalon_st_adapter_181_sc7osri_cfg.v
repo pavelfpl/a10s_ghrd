@@ -1,0 +1,5 @@
+config a10s_ghrd_altera_avalon_st_adapter_181_sc7osri_cfg;
+		design a10s_ghrd_altera_avalon_st_adapter_181_sc7osri;
+		instance a10s_ghrd_altera_avalon_st_adapter_181_sc7osri.error_adapter_0 use a10s_ghrd_error_adapter_181.a10s_ghrd_error_adapter_181_rr5nq7i;
+endconfig
+

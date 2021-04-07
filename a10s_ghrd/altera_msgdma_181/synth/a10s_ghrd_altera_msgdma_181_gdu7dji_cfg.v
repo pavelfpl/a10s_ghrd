@@ -1,0 +1,6 @@
+config a10s_ghrd_altera_msgdma_181_gdu7dji_cfg;
+		design a10s_ghrd_altera_msgdma_181_gdu7dji;
+		instance a10s_ghrd_altera_msgdma_181_gdu7dji.dispatcher_internal use a10s_ghrd_modular_sgdma_dispatcher_181.dispatcher;
+		instance a10s_ghrd_altera_msgdma_181_gdu7dji.read_mstr_internal use a10s_ghrd_dma_read_master_181.read_master;
+endconfig
+

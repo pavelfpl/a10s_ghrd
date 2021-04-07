@@ -1,0 +1,5 @@
+config a10s_ghrd_altera_avalon_st_adapter_181_fme5yhq_cfg;
+		design a10s_ghrd_altera_avalon_st_adapter_181_fme5yhq;
+		instance a10s_ghrd_altera_avalon_st_adapter_181_fme5yhq.error_adapter_0 use a10s_ghrd_error_adapter_181.a10s_ghrd_error_adapter_181_nw5grea;
+endconfig
+

@@ -1,0 +1,6 @@
+config a10s_ghrd_altera_msgdma_181_z42lkky_cfg;
+		design a10s_ghrd_altera_msgdma_181_z42lkky;
+		instance a10s_ghrd_altera_msgdma_181_z42lkky.dispatcher_internal use a10s_ghrd_modular_sgdma_dispatcher_181.dispatcher;
+		instance a10s_ghrd_altera_msgdma_181_z42lkky.write_mstr_internal use a10s_ghrd_dma_write_master_181.write_master;
+endconfig
+
